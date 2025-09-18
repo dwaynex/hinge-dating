@@ -35,6 +35,9 @@ export default {
           900: '#0f172a',
         }
       },
+      borderColor: {
+        'border': '#e2e8f0', // secondary-200
+      },
       animation: {
         'fade-in': 'fadeIn 0.5s ease-in-out',
         'slide-up': 'slideUp 0.3s ease-out',
